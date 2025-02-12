@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Its a siimple full adder with 3 in and 2 outs. The outputs are connected to a display which does not shows full numbers, buts can be use for testing. 
 ## How to test
 
-Explain how to use your project
+Compar the inputs/outputs with a full adder truth table. 
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display
